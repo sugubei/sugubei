@@ -3,4 +3,5 @@
 sugubei/sugubei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/sugubei)
+<div align="center">Visitor count
+<div align="center">![](https://profile-counter.glitch.me/sugubei/count.svg)
